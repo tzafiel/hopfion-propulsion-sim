@@ -2,6 +2,7 @@
 High-performance Rust simulation of topological Hopfion solitons for emergent spacetime metric engineering.
 
 Overview
+
 ⁠hopfion-propulsion-sim⁠ is a high-performance simulation engine written in Rust, designed to model the interaction between topological defect structures (Hopfions) and emergent spacetime geometry. This project explores the theoretical possibility of engineering metric gradients at the quantum-mechanical substrate level to achieve non-classical propulsion.
 Key Features
  Topological Soliton Dynamics: Implements a full chiral Hopfion ansatz using an N \times N \times N lattice.
